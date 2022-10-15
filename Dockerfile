@@ -1,4 +1,4 @@
-FROM python:3.6-alpine
+FROM python:3.10.7-alpine
 
 COPY wplay/ /whatsapp-play/wplay
 COPY setup.py /whatsapp-play/setup.py
