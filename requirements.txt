@@ -7,6 +7,6 @@ pyppeteer >= 0.0.25
 whaaaaat >= 0.5.2
 pyfiglet >= 0.8.post1
 prompt_toolkit == 1.0.14
-requests>=2.22.0
+requests>=2.32.0
 psutil>=5.7.0
 flake8
